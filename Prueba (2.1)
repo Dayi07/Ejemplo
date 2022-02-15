@@ -1,0 +1,5 @@
+Despues de Subir el archivo y modificarlo. 
+
+Para bajar un archivo del repositorio se usa:
+
+git pull LinkDelRepositorio/Archivo
