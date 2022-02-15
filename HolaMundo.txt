@@ -5,3 +5,7 @@ class HelloWorld
         System.out.println("Hola Mundo");
     }
 }
+
+Link de la carpeta "Ejemplo" para subir archivos:
+
+git remote add origin https://github.com/Dayi07/Ejemplo.git
