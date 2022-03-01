@@ -1,0 +1,32 @@
+PARA SUBIR ARCHIVO A UN REPOSITORIO NUEVO 
+
+git init
+
+---
+git config user.name "Dayi07"
+git config user.email "marilinlondono0@gmail.com"
+---
+
+git status
+git add .
+git commit -m "Comentario"
+git branch -M main
+git remote add origin /link del repositorio/
+git push -u origin main
+
+
+PARA SUBIR ARCHIVO MODIFICADO
+
+git status
+git add .
+git commit -m "comentario"
+git push -u origin main
+
+
+PARA BAJAR UN ARCHIVO DEL REPOSITORIO
+
+git status
+git pull /link del repositorio/
+
+
+

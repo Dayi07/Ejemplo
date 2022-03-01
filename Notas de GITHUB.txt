@@ -1,0 +1,23 @@
+Repositorio remoto, el que esta en la nube
+Repositorio local, el que tenemos en el pc
+git status, para ver el estado de los archivos
+git commit, para confirmar los cambios 
+git pull, descargar del rep-remoto los archivos/cambios
+git push, subir archivos/cambios al rep-remoto
+origin master/main = la rama donde subimos el proyecto
+git config user.name, Para el nombre del usuario del github
+git config user.email, Para el correo del github
+git init, inicializar el repositorio local
+git add, 
+
+Los archivos sin rastrear son todos los demás - cualquier otro archivo en tu directorio de 
+trabajo que no estaba en tu última instantánea y que no está en el área de preparación (staging area)
+
+Archivos rastreados (tracked files) son todos aquellos archivos que estaban en la última 
+instantánea del proyecto
+
+LINK'S
+https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio
+https://es.stackoverflow.com/questions/124696/no-puedo-hacer-push-desde-git
+https://www.freecodecamp.org/espanol/news/git-fetch-vs-pull-cual-es-la-diferencia-entre-los-comandos-git-fetch-y-git-pull/
+https://www.atlassian.com/es/git/tutorials/syncing/git-fetch#:~:text=En%20resumen%2C%20git%20fetch%20es,al%20estado%20de%20un%20remoto.
